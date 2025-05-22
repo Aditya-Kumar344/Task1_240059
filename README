@@ -6,10 +6,10 @@ A 2D platformer game where the player fights enemies like scorpions and knights.
 ## Controls
 | Action      | Key       |
 |-------------|-----------|
-| Move Left   | **A**     |
-| Move Right  | **D**     |
-| Jump        | **W**     |
-| Attack      | **Space** |
+| Move Left   |   A       |
+| Move Right  |   D       |
+| Jump        |   W       |
+| Attack      |   Space   |
 
 ## Objective
 - Avoid falling in the deadly water
