@@ -1,0 +1,34 @@
+# MoonBlade
+
+![MoonBlade Banner](media/image1.png) *(optional banner image)*
+
+A 2D platformer game where the player fights enemies like scorpions and knights.
+
+## Controls
+| Action      | Key       |
+|-------------|-----------|
+| Move Left   | **A**     |
+| Move Right  | **D**     |
+| Jump        | **W**     |
+| Attack      | **Space** |
+
+## Objective
+- Avoid falling in the deadly water
+- Defeat the main enemy (the knight) on the final platform
+- Collect coins that represent your courage and journey
+
+## Coins
+"Not just collectibles - they're part of the story. The more you explore, the more of your spirit you leave behind."
+
+## Download
+[Mac Build Download] https://drive.google.com/file/d/1gyGhpmca4CTW0TM0x8vL3-TiBZ69d5qt/view?usp=sharing
+
+## How to Play
+1. Navigate platforms using movement controls
+2. Attack enemies with your sword
+3. Collect coins to mark your progress
+4. Reach and defeat the final knight enemy
+
+---
+Refer the README.pdf file for more details about the game.
+Enjoy the game!
